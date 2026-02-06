@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<section class="section">
+  <div class="container narrow">
+    <a class="text-link" href="{{ '/projects/' | relative_url }}">Back to projects</a>
+    <h1 class="page-title">{{ page.title }}</h1>
+    <p class="project-summary">{{ page.description }}</p>
+    {% if page.hero_image %}
+      <div class="project-hero">
+        <img src="{{ page.hero_image | relative_url }}"
+             alt="{{ page.title }} hero"
+             data-theme-img
+             data-light="{{ page.hero_image | relative_url }}"
+             data-dark="{{ page.hero_image_dark | default: page.hero_image | relative_url }}" />
+      </div>
+    {% endif %}
+    <div class="project-meta">
+      {% if page.role %}<span>{{ page.role }}</span>{% endif %}
+      {% if page.stack %}<span>{{ page.stack }}</span>{% endif %}
+      {% if page.timeline %}<span>{{ page.timeline }}</span>{% endif %}
+    </div>
+    <div class="page-content">
+      {{ content }}
+    </div>
+    {% if page.links %}
+      <div class="project-links">
+        {% for link in page.links %}
+          <a class="button button-outline" href="{{ link.url }}" target="_blank" rel="noreferrer">{{ link.label }}</a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</section>
