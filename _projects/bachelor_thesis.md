@@ -39,7 +39,7 @@ I integrated a complete navigation pipeline on the **SpotCORE** payload (an onbo
 
 ## The Results
 <div class="video-container">
-    <iframe src="http://www.youtube.com/embed/5NRiSeR9sXQ" allowfullscreen="" frameborder="0">
+    <iframe src="https://www.youtube.com/embed/5NRiSeR9sXQ" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 The system was validated in a **real-world experiment** at the TU Vienna Science Center. I tested two scenarios: an empty room and a cluttered room with added barriers.

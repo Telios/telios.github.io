@@ -57,7 +57,7 @@ The project successfully demonstrated the potential of model-based RL for dynami
 * **Open Source Contribution:** A **ROS 2 wrapper** for the event-based camera was released as an open-source tool, facilitating easier integration of neuromorphic vision sensors for the wider robotics community.
 
 <div class="video-container">
-    <iframe src="http://www.youtube.com/embed/iKfP1ISdhV8" allowfullscreen="" frameborder="0">
+    <iframe src="https://www.youtube.com/embed/iKfP1ISdhV8" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 

@@ -58,7 +58,7 @@ To achieve proactive and safe behaviors, I moved away from traditional path plan
 
 ## The Results
 <div class="video-container">
-    <iframe src="http://www.youtube.com/embed/qegnjIi-ZK8" allowfullscreen="" frameborder="0">
+    <iframe src="https://www.youtube.com/embed/qegnjIi-ZK8" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 The DRL approach demonstrated a significant leap in performance compared to traditional static and heuristic baselines, validated through extensive simulation testing.
