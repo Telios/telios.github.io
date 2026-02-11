@@ -139,11 +139,22 @@ a {
     margin: 6px 0;
     width: 50%;
     float: left;
+    margin-bottom: 24px;
+}
+
+.image-container img {
+    border-radius: 18px;
 }
 
 .image-with-padding {
     margin-top: 24px;
     margin-bottom: 24px;
+    display: flex;
+    justify-content: center;
+}
+
+.image-with-padding img {
+    border-radius: 18px;
 }
 
 .button-outline:hover {
