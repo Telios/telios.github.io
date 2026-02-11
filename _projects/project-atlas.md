@@ -10,9 +10,9 @@ role: Lead Engineer
 stack: Go, Postgres, Kafka, React
 timeline: 2024
 tags:
-  - Data
-  - Platform
-  - Analytics
+  - Deep Learning
+  - Robotics
+  - Reinforcement Learning
 links:
   - label: GitHub Repo
     url: https://github.com/telios

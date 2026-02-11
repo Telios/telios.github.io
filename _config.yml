@@ -24,12 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://telios.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  telios
-linkedin_username: your-linkedin-handle
 
 author:
   name: Victor Mittermair
   location: Tokyo, Japan
-  tagline: Tagline placeholder.
+  tagline: Hi, I'm Victor.
 
 # Build settings
 theme: minima
