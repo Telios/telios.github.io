@@ -50,7 +50,7 @@ permalink: /projects/
               {% endfor %}
             </div>
           {% endif %}
-          <span class="project-link">View project</span>
+          <!--span class="project-link">View project</span-->
         </div>
       </a>
     </article>
