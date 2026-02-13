@@ -3,6 +3,11 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+
+<div class="image-with-padding-float">
+    <img src="/assets/images/profile_img.jpeg" width="200px" alt="Photo of Victor"/>
+</div>
+
 I’m a recent graduate and thrilled to embark on my career in the industry. I’ve spent approximately four years working in academia, and now I’m curious about the cutting-edge technology that gets developed for production.
 
 ## Experience

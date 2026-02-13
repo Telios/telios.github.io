@@ -4,7 +4,14 @@ title: About Me
 permalink: /about/
 ---
 
-I'm a software engineer based in Tokyo, Japan. I specialize in robotics, real-time systems, and deep learning applications. I recently graduated from the Technical University of Vienna with a Masters degree in Visual Computing.
+<div>
+    <div class="image-with-padding-float">
+        <img src="/assets/images/profile_img.jpeg" width="200px" alt="Photo of Victor"/>
+    </div>
+    <p>I'm a software engineer based in Tokyo, Japan. I specialize in robotics, real-time systems, and deep learning applications. I recently graduated from the Technical University of Vienna with a Masters degree in Visual Computing.</p>
+</div>
+
+
 
 **What I bring**
 
